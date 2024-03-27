@@ -8,6 +8,22 @@
 ### IOS developer from Russia
 </div>
 
+<div align="center">
+<a href="https://github.com/EmiliaMilanovich" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/emmilanovich" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/EmiliaMilanovich" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/yourbelovedemilia" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  </div>
+
+</br>
+
 - 👨‍💻 All of my projects are available at [https://github.com/EmiliaMilanovich](https://github.com/EmiliaMilanovich)
 
 - 📫 How to reach me **emiliamilanovich@ya.ru**
@@ -16,7 +32,8 @@
 
 - ⚡ Fun fact: **I started studying information technology when I couldn't read yet**
 
-<h3 align="left">Languages and tools:</h3>
+
+### Languages and tools
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -37,3 +54,15 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" width="40" height="40"/> </a>
+  
+
+### Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=emiliamilanovich&theme=dark&hide_border=true&include_all_commits=true&count_private=false" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliamilanovich&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
