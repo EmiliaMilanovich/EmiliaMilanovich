@@ -33,7 +33,6 @@
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>  
-<a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" width="40" height="40"/> </a>  
