@@ -28,9 +28,9 @@
 
 - 📫 How to reach me **emiliamilanovich@ya.ru**
 
-- 📄 Know about my experiences [https://career.habr.com/emiliamilanovich](https://career.habr.com/emiliamilanovich)
+- 📄 Learn more about my work experiences [https://career.habr.com/emiliamilanovich](https://career.habr.com/emiliamilanovich)
 
-- ⚡ Fun fact: **I started studying information technology when I couldn't read yet**
+- ⚡ Fun fact: **I started studying IT when I couldn't read yet**
 
 
 ### Languages and tools
