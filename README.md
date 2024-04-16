@@ -28,8 +28,6 @@
 
 - 📫 How to reach me **emiliamilanovich@ya.ru**
 
-- 📄 Learn more about my work experiences [https://career.habr.com/emiliamilanovich](https://career.habr.com/emiliamilanovich)
-
 - ⚡ Fun fact: **I started studying IT when I couldn't read yet**
 
 
