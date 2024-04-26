@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmiliaMilanovich](https://github.com/EmiliaMilanovich)
 
-- 📫 How to reach me **emiliamilanovich@ya.ru**
+- 📫 How to reach me **emiliamilanovich@yandex.ru**
 
 - ⚡ Fun fact: **I started studying IT when I couldn't read yet**
 
@@ -52,15 +52,3 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" width="40" height="40"/> </a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" width="40" height="40"/> </a>
-  
-
-### Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=emiliamilanovich&theme=dark&hide_border=true&include_all_commits=true&count_private=false" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliamilanovich&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
